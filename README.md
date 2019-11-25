@@ -4,6 +4,8 @@
 
 - [ ] Implement automatic sniffing and decoding NEXA remote codes through matplotlib (Might be through a Flask api)
   - [ ] Send them to Cloud Firestore after decoding and testing
+- [ ] Try to decode the NEXA dimmer
+  - [ ] See if the speed of the dimmer can be changed (pulse modulation?)
 
 ## Things on Raspberry Pi  Zero #1
 
@@ -22,6 +24,8 @@
 
 ## Other
 
+- [ ] Build the ergodox
+- [ ] Solder antennas to the 433MHz RF senders
 - [ ] Finish https://www.udemy.com/course/react-the-complete-guide-incl-redux/
 - [ ] Look into building a React native app for light switches for both Android and iOS
   - [ ] Implement both apps with firebase authentication and Cloud Firestore
