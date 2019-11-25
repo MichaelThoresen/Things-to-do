@@ -10,3 +10,15 @@
 - [ ] Move the Flask switch-api from RiPi3B+ to a docker container on Raspberry Pi zero 
 - [ ] Setup HomeAutomation-ConfigurationAPI in docker container (will move to separate Pi in the future)
 - [ ] Setup a arc-scan crontab that reports which phones that are home to firebase through HomeAutomation-ConfigurationAPI
+
+## Things on Raspberry Pi  Zero #2
+
+- [ ] 
+
+- [ ] Setup automatic deployment when pushing to a branch in HomeAutomation-hub repo
+
+- [ ] Implement firebase directly into the React app
+
+  
+
+- [ ] 
