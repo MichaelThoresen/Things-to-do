@@ -19,6 +19,9 @@
 
 - [ ] Implement firebase directly into the React app
 
-  
 
-- [ ] 
+## Other
+
+- [ ] Finish https://www.udemy.com/course/react-the-complete-guide-incl-redux/
+- [ ] Look into building a React native app for light switches for both Android and iOS
+  - [ ] Implement both apps with firebase authentication and Cloud Firestore
