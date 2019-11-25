@@ -24,6 +24,7 @@
 
 - [ ] Build the ergodox
 - [ ] Solder antennas to the 433MHz RF senders
-- [ ] Finish https://www.udemy.com/course/react-the-complete-guide-incl-redux/
+- [ ] Complete https://www.udemy.com/course/react-the-complete-guide-incl-redux/
+- [ ] Complete https://www.udemy.com/course/react-native-the-practical-guide/
 - [ ] Look into building a React native app for light switches for both Android and iOS
   - [ ] Implement both apps with firebase authentication and Cloud Firestore
