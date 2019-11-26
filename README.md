@@ -16,7 +16,6 @@
 ## Things on Raspberry Pi  Zero #2
 
 - [ ] Setup automatic deployment when pushing to a branch in HomeAutomation-hub repo
-
 - [ ] Implement firebase directly into the React app
 
 
