@@ -27,3 +27,8 @@
 - [ ] Complete https://www.udemy.com/course/react-native-the-practical-guide/
 - [ ] Look into building a React native app for light switches for both Android and iOS
   - [ ] Implement both apps with firebase authentication and Cloud Firestore
+
+## Feature projects
+- [ ] Make a NanoLeaf replica
+- [ ] Play with DJI Tello drone
+  - [ ] Anti collition system
